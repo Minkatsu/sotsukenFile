@@ -1,0 +1,100 @@
+{
+    "POI": [
+        {
+            "BeaconID": [
+                "8031E581-1394-1801-AB37-001C4D391D1A", 
+                "1", 
+                "1"
+            ], 
+            "BeaconLocation": [
+                1.9,
+                1.9
+            ], 
+            "ContentsLocation": [
+                0, 
+                1
+            ], 
+            "ContentsURL": "https://raw.githubusercontent.com/Minkatsu/sotsukenFile/master/spot0801.JPG"
+        }, 
+        {
+            "BeaconID": [
+                "8031E581-1394-1801-AB37-001C4D391D1A", 
+                "1", 
+                "2"
+            ], 
+            "BeaconLocation": [
+                1.9,
+                2.9
+            ], 
+            "ContentsLocation": [
+                90,
+                1
+            ], 
+            "ContentsURL": "https://raw.githubusercontent.com/Minkatsu/sotsukenFile/master/spot1302.JPG"
+        }, 
+        {
+            "BeaconID": [
+                "8031E581-1394-1801-AB37-001C4D391D1A", 
+                "1", 
+                "33"
+            ], 
+            "BeaconLocation": [
+                1.9,
+                33.9
+            ], 
+            "ContentsLocation": [
+                180,
+                1
+            ], 
+            "ContentsURL": "https://raw.githubusercontent.com/Minkatsu/sotsukenFile/master/spot0101.JPG"
+        }, 
+        {
+            "BeaconID": [
+                "8031E581-1394-1801-AB37-001C4D391D1A", 
+                "1", 
+                "34"
+            ], 
+            "BeaconLocation": [
+                1.9,
+                34.9
+            ], 
+            "ContentsLocation": [
+                270,
+                1
+            ], 
+            "ContentsURL": "https://raw.githubusercontent.com/Minkatsu/sotsukenFile/master/spot0801.JPG"
+        }, 
+        {
+            "BeaconID": [
+                "8031E581-1394-1801-AB37-001C4D391D1A", 
+                "1", 
+                "35"
+            ], 
+            "BeaconLocation": [
+                1,
+                35
+            ], 
+            "ContentsLocation": [
+                360,
+                1
+            ], 
+            "ContentsURL": "https://raw.githubusercontent.com/Minkatsu/sotsukenFile/master/spot1401.mp4"
+        },
+        {
+            "BeaconID": [
+                "8031E581-1394-1801-AB37-001C4D391D1A",
+                "1",
+                "36"
+            ],
+            "BeaconLocation": [
+                1,
+                36
+            ],
+            "ContentsLocation": [
+                360,
+                1
+            ],
+            "ContentsURL": "https://raw.githubusercontent.com/Minkatsu/sotsukenFile/master/spot1101.JPG"
+        }
+    ]
+}
