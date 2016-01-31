@@ -16,8 +16,16 @@
             ],
             "Contents": [
                 {
-                    "URL": "spot01.txt",
+                    "URL": "spot01title.txt",
                     "type": "title",
+                    "Location": [
+                        0,
+                        0
+                    ]
+                },
+		{
+                    "URL": "spot01guide.txt",
+                    "type": “guide”,
                     "Location": [
                         0,
                         0
@@ -49,8 +57,16 @@
             ],
             "Contents": [
                 {
-                    "URL": "spot02.txt",
+                    "URL": "spot02title.txt",
                     "type": "title",
+                    "Location": [
+                        0,
+                        0
+                    ]
+                },
+		{
+                    "URL": "spot02guide.txt",
+                    "type": “guide”,
                     "Location": [
                         0,
                         0
@@ -106,8 +122,16 @@
             ],
             "Contents": [
                 {
-                    "URL": "spot03.txt",
+                    "URL": "spot03title.txt",
                     "type": "title",
+                    "Location": [
+                        0,
+                        0
+                    ]
+                },
+		{
+                    "URL": "spot03guide.txt",
+                    "type": “guide”,
                     "Location": [
                         0,
                         0
@@ -139,8 +163,16 @@
             ],
             "Contents": [
                 {
-                    "URL": "spot04.txt",
+                    "URL": "spot04title.txt",
                     "type": "title",
+                    "Location": [
+                        0,
+                        0
+                    ]
+                },
+		{
+                    "URL": "spot04guide.txt",
+                    "type": “guide”,
                     "Location": [
                         0,
                         0
@@ -179,8 +211,16 @@
                 }
             ],
             "Contents": [{
-                    "URL": "spot05.txt",
+                    "URL": "spot05title.txt",
                     "type": "title",
+                    "Location": [
+                        0,
+                        0
+                    ]
+                },
+		{
+                    "URL": "spot05guide.txt",
+                    "type": “guide”,
                     "Location": [
                         0,
                         0
@@ -212,8 +252,16 @@
             ],
             "Contents": [
                 {
-                    "URL": "spot12.txt",
+                    "URL": "spot12title.txt",
                     "type": "title",
+                    "Location": [
+                        0,
+                        0
+                    ]
+                },
+		{
+                    "URL": "spot12guide.txt",
+                    "type": “guide”,
                     "Location": [
                         0,
                         0
@@ -261,8 +309,16 @@
             ],
             "Contents": [
                 {
-                    "URL": "spot13.txt",
+                    "URL": "spot13title.txt",
                     "type": "title",
+                    "Location": [
+                        0,
+                        0
+                    ]
+                },
+		{
+                    "URL": "spot13guide.txt",
+                    "type": “guide”,
                     "Location": [
                         0,
                         0
@@ -302,8 +358,16 @@
             ],
             "Contents": [
                 {
-                    "URL": "spot14.txt",
+                    "URL": "spot14title.txt",
                     "type": "title",
+                    "Location": [
+                        0,
+                        0
+                    ]
+                },
+		{
+                    "URL": "spot14guide.txt",
+                    "type": “guide”,
                     "Location": [
                         0,
                         0
@@ -351,8 +415,16 @@
             ],
             "Contents": [
                 {
-                    "URL": "spot07.txt",
+                    "URL": "spot07title.txt",
                     "type": "title",
+                    "Location": [
+                        0,
+                        0
+                    ]
+                },
+		{
+                    "URL": "spot07guide.txt",
+                    "type": “guide”,
                     "Location": [
                         0,
                         0
@@ -384,8 +456,16 @@
             ],
             "Contents": [
                 {
-                    "URL": "spot08.txt",
+                    "URL": "spot08title.txt",
                     "type": "title",
+                    "Location": [
+                        0,
+                        0
+                    ]
+                },
+		{
+                    "URL": "spot08guide.txt",
+                    "type": “guide”,
                     "Location": [
                         0,
                         0
@@ -489,8 +569,16 @@
             ],
             "Contents": [
                 {
-                    "URL": "spot11.txt",
+                    "URL": "spot11title.txt",
                     "type": "title",
+                    "Location": [
+                        0,
+                        0
+                    ]
+                },
+		{
+                    "URL": "spot11guide.txt",
+                    "type": “guide”,
                     "Location": [
                         0,
                         0
