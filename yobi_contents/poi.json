@@ -20,40 +20,39 @@
                         0, 
                         0
                     ], 
-                    "URL": "spot12title.txt", 
+                    "URL": "spotD1title.txt", 
                     "type": "title"
-		"comment": 
                 }, 
                 {
                     "Location": [
                         0, 
                         0
                     ], 
-                    "URL": "spot12guide.txt", 
+                    "URL": "spotD1guide.txt", 
                     "type": "guide"
                 }, 
                 {
                     "Location": [
-                        50, 
+                        0, 
                         1000
                     ], 
-                    "URL": "spot1201.jpg", 
+                    "URL": "shahuku.jpg", 
                     "type": "image"
-                }, 
+                },
                 {
                     "Location": [
-                        80, 
+                        180, 
                         1000
                     ], 
-                    "URL": "spot1202.JPG", 
+                    "URL": "arch.jpg", 
                     "type": "image"
-                }, 
+                },
                 {
                     "Location": [
-                        120, 
+                        90, 
                         1000
                     ], 
-                    "URL": "spot1203.JPG", 
+                    "URL": "tandai.png", 
                     "type": "image"
                 }
             ]
