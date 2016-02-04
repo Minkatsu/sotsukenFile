@@ -126,7 +126,7 @@
                         1000
                     ], 
                     "URL": "kango.jpg", 
-                    "type": "guide"
+                    "type": "image"
                 }, 
                 {
                     "Location": [
@@ -134,7 +134,7 @@
                         1000
                     ], 
                     "URL": "apio.JPG", 
-                    "type": "guide"
+                    "type": "image"
                 }
             ]
         }
