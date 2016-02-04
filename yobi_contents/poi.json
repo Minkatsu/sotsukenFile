@@ -49,11 +49,92 @@
                 },
                 {
                     "Location": [
+                        340, 
+                        1000
+                    ], 
+                    "URL": "media.jpg", 
+                    "type": "image"
+                },
+                {
+                    "Location": [
                         90, 
                         1000
                     ], 
                     "URL": "tandai.png", 
                     "type": "image"
+                }
+            ]
+        },
+        {
+            "Beacon": [
+                {
+                    "ID": [
+                        "8031E581-1394-1801-AB37-001C4D391D1A", 
+                        "1", 
+                        "34"
+                    ], 
+                    "Location": [
+                        39.8036471, 
+                        141.1369404
+                    ]
+                }
+            ], 
+            "Contents": [
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spotD2title.txt", 
+                    "type": "title"
+                }, 
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spotD2guide.txt", 
+                    "type": "guide"
+                }, 
+                {
+                    "Location": [
+                        260, 
+                        1000
+                    ], 
+                    "URL": "arina.jpg", 
+                    "type": "image"
+                },
+                {
+                    "Location": [
+                        200, 
+                        1000
+                    ], 
+                    "URL": "icon.jpeg", 
+                    "type": "image"
+                },
+                {
+                    "Location": [
+                        180, 
+                        1000
+                    ], 
+                    "URL": "arch.png", 
+                    "type": "image"
+                },
+                {
+                    "Location": [
+                        160, 
+                        1000
+                    ], 
+                    "URL": "kango.jpg", 
+                    "type": "guide"
+                }, 
+                {
+                    "Location": [
+                        300, 
+                        1000
+                    ], 
+                    "URL": "apio.JPG", 
+                    "type": "guide"
                 }
             ]
         }
