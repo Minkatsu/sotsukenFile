@@ -137,6 +137,79 @@
                     "type": "image"
                 }
             ]
+        },
+        {
+            "Beacon": [
+                {
+                    "ID": [
+                        "8031E581-1394-1801-AB37-001C4D391D1A", 
+                        "1", 
+                        "35"
+                    ], 
+                    "Location": [
+                        39.8028809, 
+                        141.1375306
+                    ]
+                }
+            ], 
+            "Contents": [
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spotD3title.txt", 
+                    "type": "title"
+                }, 
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spotD3guide.txt", 
+                    "type": "guide"
+                }, 
+                {
+                    "Location": [
+                        210, 
+                        1000
+                    ], 
+                    "URL": "sosei.png", 
+                    "type": "image"
+                },
+                {
+                    "Location": [
+                        270, 
+                        1000
+                    ], 
+                    "URL": "soft.jpg", 
+                    "type": "image"
+                },
+                {
+                    "Location": [
+                        180, 
+                        1000
+                    ], 
+                    "URL": "kyotsu.JPG", 
+                    "type": "image"
+                },
+                {
+                    "Location": [
+                        280, 
+                        1000
+                    ], 
+                    "URL": "arina.jpg", 
+                    "type": "image"
+                }, 
+                {
+                    "Location": [
+                        340, 
+                        1000
+                    ], 
+                    "URL": "gakusai.jpg", 
+                    "type": "image"
+                }
+            ]
         }
     ]
 }
