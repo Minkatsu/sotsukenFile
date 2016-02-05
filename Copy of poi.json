@@ -1,0 +1,631 @@
+{
+    "POI": [
+        {
+            "Beacon": [
+                {
+                    "ID": [
+                        "8031E581-1394-1801-AB37-001C4D391D1A", 
+                        "1", 
+                        "1"
+                    ], 
+                    "Location": [
+                        39.7349, 
+                        141.980544
+                    ]
+                }
+            ], 
+            "Contents": [
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot01title.txt", 
+                    "type": "title"
+                }, 
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot01guide.txt", 
+                    "type": "guide"
+                }
+            ]
+        }, 
+        {
+            "Beacon": [
+                {
+                    "ID": [
+                        "8031E581-1394-1801-AB37-001C4D391D1A", 
+                        "1", 
+                        "2"
+                    ], 
+                    "Location": [
+                        39.735219, 
+                        141.981067
+                    ]
+                }
+            ], 
+            "Contents": [
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot02title.txt", 
+                    "type": "title"
+                }, 
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot02guide.txt", 
+                    "type": "guide"
+                }
+            ]
+        }, 
+        {
+            "Beacon": [
+                {
+                    "ID": [
+                        "8031E581-1394-1801-AB37-001C4D391D1A", 
+                        "1", 
+                        "30"
+                    ], 
+                    "Location": [
+                        39.734942, 
+                        141.978351
+                    ]
+                }
+            ], 
+            "Contents": [
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot03title.txt", 
+                    "type": "title"
+                }, 
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot03guide.txt", 
+                    "type": "guide"
+                }
+            ]
+        }, 
+        {
+            "Beacon": [
+                {
+                    "ID": [
+                        "8031E581-1394-1801-AB37-001C4D391D1A", 
+                        "1", 
+                        "31"
+                    ], 
+                    "Location": [
+                        39.734794, 
+                        141.97814
+                    ]
+                }
+            ], 
+            "Contents": [
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot04title.txt", 
+                    "type": "title"
+                }, 
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot04guide.txt", 
+                    "type": "guide"
+                }
+            ]
+        }, 
+        {
+            "Beacon": [
+                {
+                    "ID": [
+                        "8031E581-1394-1801-AB37-001C4D391D1A", 
+                        "1", 
+                        "32"
+                    ], 
+                    "Location": [
+                        39.735334, 
+                        141.978054
+                    ]
+                }
+            ], 
+            "Contents": [
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot05title.txt", 
+                    "type": "title"
+                }, 
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot05guide.txt", 
+                    "type": "guide"
+                }
+            ]
+        }, 
+        {
+            "Beacon": [
+                {
+                    "ID": [
+                        "8031E581-1394-1801-AB37-001C4D391D1A", 
+                        "1", 
+                        "33"
+                    ], 
+                    "Location": [
+                        39.741006, 
+                        141.973335
+                    ]
+                }
+            ], 
+            "Contents": [
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spo06title.txt", 
+                    "type": "title"
+                }, 
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot06guide.txt", 
+                    "type": "guide"
+                }
+            ]
+        }, 
+        {
+            "Beacon": [
+                {
+                    "ID": [
+                        "8031E581-1394-1801-AB37-001C4D391D1A", 
+                        "1", 
+                        "34"
+                    ], 
+                    "Location": [
+                        39.741614, 
+                        141.972941
+                    ]
+                }
+            ], 
+            "Contents": [
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot07title.txt", 
+                    "type": "title"
+                }, 
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot07guide.txt", 
+                    "type": "guide"
+                }
+            ]
+        }, 
+        {
+            "Beacon": [
+                {
+                    "ID": [
+                        "8031E581-1394-1801-AB37-001C4D391D1A", 
+                        "1", 
+                        "35"
+                    ], 
+                    "Location": [
+                        39.740606, 
+                        141.971844
+                    ]
+                }
+            ], 
+            "Contents": [
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot08title.txt", 
+                    "type": "title"
+                }, 
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot08guide.txt", 
+                    "type": "guide"
+                }
+            ]
+        }, 
+        {
+            "Beacon": [
+                {
+                    "ID": [
+                        "8031E581-1394-1801-AB37-001C4D391D1A", 
+                        "1", 
+                        "36"
+                    ], 
+                    "Location": [
+                        39.732395, 
+                        141.982003
+                    ]
+                }
+            ], 
+            "Contents": [
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot09title.txt", 
+                    "type": "title"
+                }, 
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot09guide.txt", 
+                    "type": "guide"
+                }
+            ]
+        }, 
+        {
+            "Beacon": [
+                {
+                    "ID": [
+                        "8031E581-1394-1801-AB37-001C4D391D1A", 
+                        "1", 
+                        "37"
+                    ], 
+                    "Location": [
+                        39.735959, 
+                        141.965637
+                    ]
+                }
+            ], 
+            "Contents": [
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot10title.txt", 
+                    "type": "title"
+                }, 
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot10guide.txt", 
+                    "type": "guide"
+                }
+            ]
+        }, 
+        {
+            "Beacon": [
+                {
+                    "ID": [
+                        "8031E581-1394-1801-AB37-001C4D391D1A", 
+                        "1", 
+                        "38"
+                    ], 
+                    "Location": [
+                        39.738219, 
+                        141.969025
+                    ]
+                }
+            ], 
+            "Contents": [
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot11title.txt", 
+                    "type": "title"
+                }, 
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot11guide.txt", 
+                    "type": "guide"
+                }
+            ]
+        }, 
+        {
+            "Beacon": [
+                {
+                    "ID": [
+                        "8031E581-1394-1801-AB37-001C4D391D1A", 
+                        "1", 
+                        "39"
+                    ], 
+                    "Location": [
+                        39.736555, 
+                        141.970417
+                    ]
+                }
+            ], 
+            "Contents": [
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot12title.txt", 
+                    "type": "title"
+                }, 
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot12guide.txt", 
+                    "type": "guide"
+                }
+            ]
+        }, 
+        {
+            "Beacon": [
+                {
+                    "ID": [
+                        "8031E581-1394-1801-AB37-001C4D391D1A", 
+                        "1", 
+                        "40"
+                    ], 
+                    "Location": [
+                        39.736593, 
+                        141.96908
+                    ]
+                }
+            ], 
+            "Contents": [
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot13title.txt", 
+                    "type": "title"
+                }, 
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot13guide.txt", 
+                    "type": "guide"
+                }
+            ]
+        }, 
+        {
+            "Beacon": [
+                {
+                    "ID": [
+                        "8031E581-1394-1801-AB37-001C4D391D1A", 
+                        "1", 
+                        "41"
+                    ], 
+                    "Location": [
+                        39.736555, 
+                        141.968215
+                    ]
+                }
+            ], 
+            "Contents": [
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot14title.txt", 
+                    "type": "title"
+                }, 
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot14guide.txt", 
+                    "type": "guide"
+                }
+            ]
+        }, 
+        {
+            "Beacon": [
+                {
+                    "ID": [
+                        "8031E581-1394-1801-AB37-001C4D391D1A", 
+                        "1", 
+                        "42"
+                    ], 
+                    "Location": [
+                        39.731602, 
+                        141.964863
+                    ]
+                }
+            ], 
+            "Contents": [
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot15title.txt", 
+                    "type": "title"
+                }, 
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot15guide.txt", 
+                    "type": "guide"
+                }
+            ]
+        }, 
+        {
+            "Beacon": [
+                {
+                    "ID": [
+                        "8031E581-1394-1801-AB37-001C4D391D1A", 
+                        "1", 
+                        "43"
+                    ], 
+                    "Location": [
+                        39.731602, 
+                        141.964863
+                    ]
+                }
+            ], 
+            "Contents": [
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot16title.txt", 
+                    "type": "title"
+                }, 
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot16guide.txt", 
+                    "type": "guide"
+                }
+            ]
+        }, 
+        {
+            "Beacon": [
+                {
+                    "ID": [
+                        "8031E581-1394-1801-AB37-001C4D391D1A", 
+                        "1", 
+                        "44"
+                    ], 
+                    "Location": [
+                        39.652055, 
+                        141.979671
+                    ]
+                }
+            ], 
+            "Contents": [
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot17title.txt", 
+                    "type": "title"
+                }, 
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot17guide.txt", 
+                    "type": "guide"
+                }
+            ]
+        }, 
+        {
+            "Beacon": [
+                {
+                    "ID": [
+                        "8031E581-1394-1801-AB37-001C4D391D1A", 
+                        "1", 
+                        "45"
+                    ], 
+                    "Location": [
+                        39.639508, 
+                        141.969982
+                    ]
+                }
+            ], 
+            "Contents": [
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot18title.txt", 
+                    "type": "title"
+                }, 
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot18guide.txt", 
+                    "type": "guide"
+                }
+            ]
+        }, 
+        {
+            "Beacon": [
+                {
+                    "ID": [
+                        "8031E581-1394-1801-AB37-001C4D391D1A", 
+                        "1", 
+                        "46"
+                    ], 
+                    "Location": [
+                        39.640453, 
+                        141.946738
+                    ]
+                }
+            ], 
+            "Contents": [
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot19title.txt", 
+                    "type": "title"
+                }, 
+                {
+                    "Location": [
+                        0, 
+                        0
+                    ], 
+                    "URL": "spot19guide.txt", 
+                    "type": "guide"
+                }
+            ]
+        }
+    ]
+}
