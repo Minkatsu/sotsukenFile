@@ -1,7 +1,6 @@
 {
     "POI": [
         {
-        	"Name": "山王岩"
             "Beacon": [
                 {
                     "ID": [
@@ -32,10 +31,10 @@
                     "URL": "spot01guide.txt", 
                     "type": "guide"
                 }
-            ]
+            ], 
+            "Name": "山王岩"
         }, 
         {
-        	"Comment": "田老市街地津波"
             "Beacon": [
                 {
                     "ID": [
@@ -49,6 +48,7 @@
                     ]
                 }
             ], 
+            "Comment": "田老市街地津波", 
             "Contents": [
                 {
                     "Location": [
@@ -69,7 +69,6 @@
             ]
         }, 
         {
-	        "Name": "被災魚市場"
             "Beacon": [
                 {
                     "ID": [
@@ -100,10 +99,10 @@
                     "URL": "spot03guide.txt", 
                     "type": "guide"
                 }
-            ]
+            ], 
+            "Name": "被災魚市場"
         }, 
         {
-        	"Name": "被災製氷工場"
             "Beacon": [
                 {
                     "ID": [
@@ -134,10 +133,10 @@
                     "URL": "spot04guide.txt", 
                     "type": "guide"
                 }
-            ]
+            ], 
+            "Name": "被災製氷工場"
         }, 
         {
-        	"Name": "被災たろう観光ホテル向き堤防後"
             "Beacon": [
                 {
                     "ID": [
@@ -168,10 +167,10 @@
                     "URL": "spot05guide.txt", 
                     "type": "guide"
                 }
-            ]
+            ], 
+            "Name": "被災たろう観光ホテル向き堤防後"
         }, 
         {
-	        "Name": "橋"
             "Beacon": [
                 {
                     "ID": [
@@ -202,10 +201,10 @@
                     "URL": "spot06guide.txt", 
                     "type": "guide"
                 }
-            ]
+            ], 
+            "Name": "橋"
         }, 
         {
-        	"Name": "橋の上"
             "Beacon": [
                 {
                     "ID": [
@@ -236,10 +235,10 @@
                     "URL": "spot07guide.txt", 
                     "type": "guide"
                 }
-            ]
+            ], 
+            "Name": "橋の上"
         }, 
         {
-        	"Name": "田老診療所"
             "Beacon": [
                 {
                     "ID": [
@@ -270,10 +269,10 @@
                     "URL": "spot08guide.txt", 
                     "type": "guide"
                 }
-            ]
+            ], 
+            "Name": "田老診療所"
         }, 
         {
-        	"Name": "山王岩"
             "Beacon": [
                 {
                     "ID": [
@@ -304,10 +303,10 @@
                     "URL": "spot09guide.txt", 
                     "type": "guide"
                 }
-            ]
+            ], 
+            "Name": "山王岩"
         }, 
         {
-        	"Name": "津波到達点"
             "Beacon": [
                 {
                     "ID": [
@@ -338,10 +337,10 @@
                     "URL": "spot10guide.txt", 
                     "type": "guide"
                 }
-            ]
+            ], 
+            "Name": "津波到達点"
         }, 
         {
-        	"Name": "田老一中校庭"
             "Beacon": [
                 {
                     "ID": [
@@ -372,10 +371,10 @@
                     "URL": "spot11guide.txt", 
                     "type": "guide"
                 }
-            ]
+            ], 
+            "Name": "田老一中校庭"
         }, 
         {
-        	"Name": "赤沼山避難路"
             "Beacon": [
                 {
                     "ID": [
@@ -406,10 +405,10 @@
                     "URL": "spot12guide.txt", 
                     "type": "guide"
                 }
-            ]
+            ], 
+            "Name": "赤沼山避難路"
         }, 
         {
-        	"Name": "田老総合事務所"
             "Beacon": [
                 {
                     "ID": [
@@ -440,10 +439,10 @@
                     "URL": "spot13guide.txt", 
                     "type": "guide"
                 }
-            ]
+            ], 
+            "Name": "田老総合事務所"
         }, 
         {
-        	"Name": "旧火葬場"
             "Beacon": [
                 {
                     "ID": [
@@ -474,10 +473,10 @@
                     "URL": "spot14guide.txt", 
                     "type": "guide"
                 }
-            ]
+            ], 
+            "Name": "旧火葬場"
         }, 
         {
-        	"Name": "三徹駅"
             "Beacon": [
                 {
                     "ID": [
@@ -508,10 +507,10 @@
                     "URL": "spot15guide.txt", 
                     "type": "guide"
                 }
-            ]
+            ], 
+            "Name": "三徹駅"
         }, 
         {
-        	"Name": "三鉄道下"
             "Beacon": [
                 {
                     "ID": [
@@ -542,10 +541,10 @@
                     "URL": "spot16guide.txt", 
                     "type": "guide"
                 }
-            ]
+            ], 
+            "Name": "三鉄道下"
         }, 
         {
-        	"Name": "浄土ヶ浜"
             "Beacon": [
                 {
                     "ID": [
@@ -576,10 +575,10 @@
                     "URL": "spot17guide.txt", 
                     "type": "guide"
                 }
-            ]
+            ], 
+            "Name": "浄土ヶ浜"
         }, 
         {
-        	"Name": "シートピアなあど"
             "Beacon": [
                 {
                     "ID": [
@@ -610,10 +609,10 @@
                     "URL": "spot18guide.txt", 
                     "type": "guide"
                 }
-            ]
+            ], 
+            "Name": "シートピアなあど"
         }, 
         {
-        	"Name": "観光案内所"
             "Beacon": [
                 {
                     "ID": [
@@ -644,7 +643,8 @@
                     "URL": "spot19guide.txt", 
                     "type": "guide"
                 }
-            ]
+            ], 
+            "Name": "観光案内所"
         }
     ]
 }
