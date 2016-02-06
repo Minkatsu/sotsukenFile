@@ -48,7 +48,6 @@
                     ]
                 }
             ], 
-            "Comment": "田老市街地津波", 
             "Contents": [
                 {
                     "Location": [
@@ -66,7 +65,8 @@
                     "URL": "spot02guide.txt", 
                     "type": "guide"
                 }
-            ]
+            ], 
+            "Name": "田老市街地津波"
         }, 
         {
             "Beacon": [
