@@ -16,22 +16,16 @@
             ], 
             "Contents": [
                 {
+                    "Comment": "spot0101commentsample.txt", 
                     "Location": [
-                        0, 
-                        0
+                        90, 
+                        15
                     ], 
-                    "URL": "spot01title.txt", 
-                    "type": "title"
-                }, 
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot01guide.txt", 
-                    "type": "guide"
+                    "URL": "spot01.png", 
+                    "type": "image"
                 }
             ], 
+            "Id": "0101", 
             "Name": "山王岩"
         }, 
         {
@@ -48,24 +42,8 @@
                     ]
                 }
             ], 
-            "Contents": [
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot02title.txt", 
-                    "type": "title"
-                }, 
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot02guide.txt", 
-                    "type": "guide"
-                }
-            ], 
+            "Contents": [], 
+            "Id": "0102", 
             "Name": "田老市街地津波"
         }, 
         {
@@ -82,24 +60,8 @@
                     ]
                 }
             ], 
-            "Contents": [
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot03title.txt", 
-                    "type": "title"
-                }, 
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot03guide.txt", 
-                    "type": "guide"
-                }
-            ], 
+            "Contents": [], 
+            "Id": "0130", 
             "Name": "被災魚市場"
         }, 
         {
@@ -116,24 +78,8 @@
                     ]
                 }
             ], 
-            "Contents": [
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot04title.txt", 
-                    "type": "title"
-                }, 
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot04guide.txt", 
-                    "type": "guide"
-                }
-            ], 
+            "Contents": [], 
+            "Id": "0131", 
             "Name": "被災製氷工場"
         }, 
         {
@@ -150,24 +96,8 @@
                     ]
                 }
             ], 
-            "Contents": [
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot05title.txt", 
-                    "type": "title"
-                }, 
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot05guide.txt", 
-                    "type": "guide"
-                }
-            ], 
+            "Contents": [], 
+            "Id": "0132", 
             "Name": "被災たろう観光ホテル向き堤防後"
         }, 
         {
@@ -184,24 +114,8 @@
                     ]
                 }
             ], 
-            "Contents": [
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spo06title.txt", 
-                    "type": "title"
-                }, 
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot06guide.txt", 
-                    "type": "guide"
-                }
-            ], 
+            "Contents": [], 
+            "Id": "0133", 
             "Name": "橋"
         }, 
         {
@@ -218,24 +132,8 @@
                     ]
                 }
             ], 
-            "Contents": [
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot07title.txt", 
-                    "type": "title"
-                }, 
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot07guide.txt", 
-                    "type": "guide"
-                }
-            ], 
+            "Contents": [], 
+            "Id": "0134", 
             "Name": "橋の上"
         }, 
         {
@@ -252,24 +150,8 @@
                     ]
                 }
             ], 
-            "Contents": [
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot08title.txt", 
-                    "type": "title"
-                }, 
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot08guide.txt", 
-                    "type": "guide"
-                }
-            ], 
+            "Contents": [], 
+            "Id": "0135", 
             "Name": "田老診療所"
         }, 
         {
@@ -286,24 +168,8 @@
                     ]
                 }
             ], 
-            "Contents": [
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot09title.txt", 
-                    "type": "title"
-                }, 
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot09guide.txt", 
-                    "type": "guide"
-                }
-            ], 
+            "Contents": [], 
+            "Id": "0136", 
             "Name": "山王岩"
         }, 
         {
@@ -320,24 +186,8 @@
                     ]
                 }
             ], 
-            "Contents": [
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot10title.txt", 
-                    "type": "title"
-                }, 
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot10guide.txt", 
-                    "type": "guide"
-                }
-            ], 
+            "Contents": [], 
+            "Id": "0137", 
             "Name": "津波到達点"
         }, 
         {
@@ -354,24 +204,8 @@
                     ]
                 }
             ], 
-            "Contents": [
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot11title.txt", 
-                    "type": "title"
-                }, 
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot11guide.txt", 
-                    "type": "guide"
-                }
-            ], 
+            "Contents": [], 
+            "Id": "0138", 
             "Name": "田老一中校庭"
         }, 
         {
@@ -388,24 +222,8 @@
                     ]
                 }
             ], 
-            "Contents": [
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot12title.txt", 
-                    "type": "title"
-                }, 
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot12guide.txt", 
-                    "type": "guide"
-                }
-            ], 
+            "Contents": [], 
+            "Id": "0139", 
             "Name": "赤沼山避難路"
         }, 
         {
@@ -422,24 +240,8 @@
                     ]
                 }
             ], 
-            "Contents": [
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot13title.txt", 
-                    "type": "title"
-                }, 
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot13guide.txt", 
-                    "type": "guide"
-                }
-            ], 
+            "Contents": [], 
+            "Id": "0140", 
             "Name": "田老総合事務所"
         }, 
         {
@@ -456,24 +258,8 @@
                     ]
                 }
             ], 
-            "Contents": [
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot14title.txt", 
-                    "type": "title"
-                }, 
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot14guide.txt", 
-                    "type": "guide"
-                }
-            ], 
+            "Contents": [], 
+            "Id": "0141", 
             "Name": "旧火葬場"
         }, 
         {
@@ -490,25 +276,9 @@
                     ]
                 }
             ], 
-            "Contents": [
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot15title.txt", 
-                    "type": "title"
-                }, 
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot15guide.txt", 
-                    "type": "guide"
-                }
-            ], 
-            "Name": "三徹駅"
+            "Contents": [], 
+            "Id": "0142", 
+            "Name": "三鉄駅"
         }, 
         {
             "Beacon": [
@@ -524,24 +294,8 @@
                     ]
                 }
             ], 
-            "Contents": [
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot16title.txt", 
-                    "type": "title"
-                }, 
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot16guide.txt", 
-                    "type": "guide"
-                }
-            ], 
+            "Contents": [], 
+            "Id": "0143", 
             "Name": "三鉄道下"
         }, 
         {
@@ -558,24 +312,8 @@
                     ]
                 }
             ], 
-            "Contents": [
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot17title.txt", 
-                    "type": "title"
-                }, 
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot17guide.txt", 
-                    "type": "guide"
-                }
-            ], 
+            "Contents": [], 
+            "Id": "0144", 
             "Name": "浄土ヶ浜"
         }, 
         {
@@ -592,24 +330,8 @@
                     ]
                 }
             ], 
-            "Contents": [
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot18title.txt", 
-                    "type": "title"
-                }, 
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot18guide.txt", 
-                    "type": "guide"
-                }
-            ], 
+            "Contents": [], 
+            "Id": "0145", 
             "Name": "シートピアなあど"
         }, 
         {
@@ -626,24 +348,8 @@
                     ]
                 }
             ], 
-            "Contents": [
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot19title.txt", 
-                    "type": "title"
-                }, 
-                {
-                    "Location": [
-                        0, 
-                        0
-                    ], 
-                    "URL": "spot19guide.txt", 
-                    "type": "guide"
-                }
-            ], 
+            "Contents": [], 
+            "Id": "0146", 
             "Name": "観光案内所"
         }
     ]
