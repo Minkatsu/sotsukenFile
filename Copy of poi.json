@@ -132,7 +132,88 @@
                     ]
                 }
             ], 
-            "Contents": [], 
+            "Contents": [
+                {
+                    "URL": "spot0801rotate.JPG",
+                    "type": "image",
+                    "Location": [
+                        0,
+                        10
+                    ]
+                },
+                {
+                    "URL": "spot0802.JPG",
+                    "type": "image",
+                    "Location": [
+                        36,
+                        20
+                    ]
+                },
+                {
+                    "URL": "spot0803.JPG",
+                    "type": "image",
+                    "Location": [
+                        72,
+                        15
+                    ]
+                },
+                {
+                    "URL": "spot0804.JPG",
+                    "type": "image",
+                    "Location": [
+                        108,
+                        -10
+                    ]
+                },
+                {
+                    "URL": "spot0805.JPG",
+                    "type": "image",
+                    "Location": [
+                        144,
+                        -20
+                    ]
+                },
+                {
+                    "URL": "spot0806.JPG",
+                    "type": "image",
+                    "Location": [
+                        180,
+                        5
+                    ]
+                },
+                {
+                    "URL": "spot0807.JPG",
+                    "type": "image",
+                    "Location": [
+                        216,
+                        -15
+                    ]
+                },
+                {
+                    "URL": "spot0808.JPG",
+                    "type": "image",
+                    "Location": [
+                        252,
+                        0
+                    ]
+                },
+                {
+                    "URL": "spot1505.JPG",
+                    "type": "image",
+                    "Location": [
+                        288,
+                        5
+                    ]
+                },
+                {
+                    "URL": "spot1401.mp4",
+                    "type": "video",
+                    "Location": [
+                        324,
+                        -3
+                    ]
+                }
+                ], 
             "Id": "0134", 
             "Name": "橋の上"
         }, 
